@@ -1,0 +1,5 @@
+- object design principle gama (teknikal implementasi dari solid)
+- metode penelitian ilmu komputer
+- pelajari UML 
+- object oriented design patterns (funcitonal, behavior, creational)
+- bad smells code
