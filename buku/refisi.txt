@@ -1,0 +1,6 @@
+- objek teliti diganti
+- judul sudah diperbaiki
+- latarbelakang mengenai objek yang diteliti sudah difokuskan
+  mengenai maintainabilitynya 
+- state of the art sudah diupdate menjadi yang terbaru dan 
+  formatnya sudah menjadi tabel saja.
