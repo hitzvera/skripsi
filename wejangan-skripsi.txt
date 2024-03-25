@@ -1,0 +1,18 @@
+sitasi, example definisi ini menurut x and y
+remember every keyword.
+
+12 slide max (hal 1 judul, hal 12 terimakasih)
+latarbelakang
+literature (sota)
+problem
+proposed solution
+method
+	avoid neutrality or do something about it
+	menghitung sample populasi ada teorinya, 5% dari populasi.
+how data is taken
+how data is being process.
+result
+	- hasil olah data, kesimpulan akhir dari data tsb
+	- then rancangannya (aplikasi or something else)
+kesimpulan (inline dengan rumusan masalah)
+saran (fokus ke hasil dari riset, harus pada interal)
